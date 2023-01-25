@@ -91,13 +91,17 @@ main {
 }
 
 span.sale-sx {
+    color: white;
     background-color: red;
     padding: 0 5px;
+    font-size: small;
 }
 
 .sale-dx {
+    color: white;
     background-color: green;
     padding: 0 6px;
+    font-size: small;
 }
 
 .price-1 {
