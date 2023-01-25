@@ -90,6 +90,14 @@ main {
     color: red;
 }
 
+span.sale-sx {
+    background-color: red;
+}
+
+.sale-dx {
+    background-color: green;
+}
+
 /* /main */
 /* ---------------------------------- */
 
