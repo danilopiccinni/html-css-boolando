@@ -65,8 +65,8 @@ main {
 
 .card-descript {
     position: absolute;
-    bottom: -100px;
-    right: 0;
+    bottom: -60px;
+    left: 0;
 }
 
 .sale {
