@@ -92,10 +92,12 @@ main {
 
 span.sale-sx {
     background-color: red;
+    padding: 0 5px;
 }
 
 .sale-dx {
     background-color: green;
+    padding: 0 6px;
 }
 
 /* /main */
