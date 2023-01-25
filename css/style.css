@@ -79,7 +79,15 @@ main {
 .favorite {
     position: absolute;
     right: 0;
-    top: 40px;
+    top: 20px;
+
+    font-size: 25px;
+    background-color: white;
+    padding: 5px;
+}
+
+.favorite span:hover {
+    color: red;
 }
 
 /* /main */
