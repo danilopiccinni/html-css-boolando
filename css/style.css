@@ -20,8 +20,6 @@ header {
 
 
     text-decoration: none;
-
- 
 }
 
 nav {
@@ -41,6 +39,10 @@ img {
 
 header a {
     color: white;
+}
+
+div.nav-dx {
+    
 }
 
 
