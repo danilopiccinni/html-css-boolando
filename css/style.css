@@ -149,8 +149,9 @@ footer {
 .cont-footer {
     display: flex;
     justify-content: space-between;
+    
 
-    padding-top: 15px;
+    padding-top: 30px;
     max-width: 75%;
     margin-left: auto;
     margin-right: auto;
@@ -164,6 +165,7 @@ footer {
 .cont-footer-bottom {
     display: flex;
     flex-direction: column;
+
 }
 
 
